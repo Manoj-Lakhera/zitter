@@ -8,11 +8,14 @@ Note to Team Members:
 4) contribute
 
 *How to push changes.
-once you are done with your changes 
+once you are done with your changes.
 
-1)git init
-2)git add .
-3)git commit -m "comment"
-4)git add -u origin main 
+1)git init.
+2)git add ..
+3)git commit -m "comment".
+4)git  remote -u origin main <link>.
+5)git  push -u origin main.
+
+
 
   
