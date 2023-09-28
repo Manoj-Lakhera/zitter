@@ -17,6 +17,6 @@ once you are done with your changes.
 5)git  push -u origin main.
 
 Members:
-1. manojlakhera
+1. Manoj-Lakhera
 
   
